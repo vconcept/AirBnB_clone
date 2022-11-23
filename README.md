@@ -21,3 +21,17 @@
 | EOF | Signifies the end of file |
 | help | used to display command/how a command is used|
 | quit | used to exit the command interpreter |
+
+'''
+$ ./console.py
+(hbnb) help
+
+Documented commands (type help <topic>):
+========================================
+EOF  help  quit
+
+(hbnb) 
+(hbnb) 
+(hbnb) quit
+$
+'''
