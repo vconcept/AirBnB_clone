@@ -2,7 +2,7 @@
 
 ## What is the description of the project?
 
-> An AirBNB clone that allows users check reservation of available homes, location, prices and features to enable them select their perfect accomodation for the specified period within the location of their choice.
+> An AirBnB clone that allows users check reservation of available homes, location, prices and features to enable them select their perfect accomodation for the specified period within the location of their choice.
 
 
 ## Description of the command interpreter:
