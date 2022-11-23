@@ -22,6 +22,8 @@
 | help | used to display command/how a command is used|
 | quit | used to exit the command interpreter |
 
+### Examples 
+
 ```
 $ ./console.py
 (hbnb) help
