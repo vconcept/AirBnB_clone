@@ -7,9 +7,9 @@
 
 ## Description of the command interpreter:
 
-> To create a new house.
-> To make the house visible by making it go live
-> To modify existing properties and to delete the house completely.
+> * To create a new house.
+> * To make the house visible by making it go live
+> * To modify existing properties and to delete the house completely.
 
 
 ### How to start it:
