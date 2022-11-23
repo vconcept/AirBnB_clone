@@ -14,7 +14,7 @@
 
 ### How to start it:
 
-> Type the command **<help>** into the prompt
+> Type the command **help** into the prompt
 
 | Commands | Description |
 | --- | --- |
